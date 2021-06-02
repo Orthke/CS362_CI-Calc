@@ -18,5 +18,6 @@ class TestCalcApp:
     def test_mul(self):
         assert mul(5, 5) == 25
 
+
     def test_sq(self):
         assert sq(5) == 25
